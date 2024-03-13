@@ -1,5 +1,7 @@
 ### Hello there 👋
+I'm a fullstack webdev, data analyst
 [Linkedin](https://www.linkedin.com/in/adam-barreto)
+
 <!--
 **DamBarreto/dambarreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
