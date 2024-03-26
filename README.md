@@ -1,5 +1,5 @@
 ### Hello there 👋
-I'm a fullstack webdev, data analyst
+I'm a fullstack webdev, data analyst. Follow me at
 [Linkedin](https://www.linkedin.com/in/adam-barreto)
 
 <!--
